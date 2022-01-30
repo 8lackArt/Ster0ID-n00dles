@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ster0ID-n00dles
+- 👋 Hi, I’m @n00dles-wave
 - 👀 I’m interested in develop ABB and FANUC progrmas
 - 🌱 I’m currently learning RAPID and KAREL programming languages
 - 💞️ I’m looking to collaborate on develop a series of Robotic programs
